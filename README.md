@@ -40,4 +40,4 @@ The script:
 To run the code, simply execute the JavaScript file in a Node.js environment:
 
 ```bash
-node index.js
+node phi_function.js
